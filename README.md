@@ -9,7 +9,7 @@ Repository for 01076109,01076110-Object Oriented DataStructure
 - [ ] 1-5: Countdown มหาสนุก
 - [X] 2-1: roman number
 - [ ] 2-2: weirdSubtract
-- [ ] 2-3: Odd And Even
+- [X] 2-3: Odd And Even
 - [ ] 2-4: 3 SUM
 - [ ] 2-5: funString
 - [X] 12-1: wind speed
