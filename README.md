@@ -6,7 +6,7 @@ Repository for 01076109,01076110-Object Oriented DataStructure
 - [X] 1-2: BMI Calculate
 - [ ] 1-3: Fun with permute
 - [ ] 1-4: สนุกไปกับการวาดรูป
-- [ ] 1-5: Countdown มหาสนุก
+- [X] 1-5: Countdown มหาสนุก
 - [X] 2-1: roman number
 - [ ] 2-2: weirdSubtract
 - [X] 2-3: Odd And Even
