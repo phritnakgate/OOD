@@ -11,7 +11,7 @@ Repository for 01076109,01076110-Object Oriented DataStructure
 - [ ] 2-2: weirdSubtract
 - [X] 2-3: Odd And Even
 - [ ] 2-4: 3 SUM
-- [ ] 2-5: funString
+- [X] 2-5: funString
 - [X] 12-1: wind speed
 - [X] 12-2: ตัวประกอบ
 - [X] 12-3: count charactors
