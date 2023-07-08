@@ -15,5 +15,5 @@ Repository for 01076109,01076110-Object Oriented DataStructure
 - [X] 12-1: wind speed
 - [X] 12-2: ตัวประกอบ
 - [X] 12-3: count charactors
-- [ ] 12-4: Rotate string
+- [X] 12-4: Rotate string
 - [X] 12-5: MyInt roman
