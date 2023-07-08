@@ -4,7 +4,7 @@ Repository for 01076109,01076110-Object Oriented DataStructure
 ## Chapter 1,2,12 - Python Review
 - [X] 1-1: เขียนโปรแกรม Python ซึ่งรับ input เป็นรัศมีของวงกลม จากนั้นคำนวณพื้นที่และแสดงผล
 - [X] 1-2: BMI Calculate
-- [ ] 1-3: Fun with permute
+- [X] 1-3: Fun with permute
 - [ ] 1-4: สนุกไปกับการวาดรูป
 - [X] 1-5: Countdown มหาสนุก
 - [X] 2-1: roman number
