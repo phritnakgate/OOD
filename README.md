@@ -10,7 +10,7 @@ Repository for 01076109,01076110-Object Oriented DataStructure
 - [X] 2-1: roman number
 - [X] 2-2: weirdSubtract
 - [X] 2-3: Odd And Even
-- [ ] 2-4: 3 SUM
+- [X] 2-4: 3 SUM
 - [X] 2-5: funString
 - [X] 12-1: wind speed
 - [X] 12-2: ตัวประกอบ
