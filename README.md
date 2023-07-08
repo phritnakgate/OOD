@@ -8,7 +8,7 @@ Repository for 01076109,01076110-Object Oriented DataStructure
 - [ ] 1-4: สนุกไปกับการวาดรูป
 - [X] 1-5: Countdown มหาสนุก
 - [X] 2-1: roman number
-- [ ] 2-2: weirdSubtract
+- [X] 2-2: weirdSubtract
 - [X] 2-3: Odd And Even
 - [ ] 2-4: 3 SUM
 - [X] 2-5: funString
