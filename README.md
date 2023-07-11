@@ -20,3 +20,7 @@ Repository for 01076109,01076110-Object Oriented DataStructure
 
 ## Chapter 3 - Stack
 - [X] 3-1: สร้าง stack
+- [X] 3-2: Number in Stack
+- [ ] 3-3: Postfix Calculator
+- [ ] 3-4: วันหนึ่งฉันเดินเข้าป่า (1) a.k.a Into the Woods
+- [ ] 3-5: ซอยตัน
