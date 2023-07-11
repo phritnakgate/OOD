@@ -5,7 +5,7 @@ Repository for 01076109,01076110-Object Oriented DataStructure
 - [X] 1-1: เขียนโปรแกรม Python ซึ่งรับ input เป็นรัศมีของวงกลม จากนั้นคำนวณพื้นที่และแสดงผล
 - [X] 1-2: BMI Calculate
 - [X] 1-3: Fun with permute
-- [ ] 1-4: สนุกไปกับการวาดรูป
+- [X] 1-4: สนุกไปกับการวาดรูป
 - [X] 1-5: Countdown มหาสนุก
 - [X] 2-1: roman number
 - [X] 2-2: weirdSubtract
@@ -17,3 +17,6 @@ Repository for 01076109,01076110-Object Oriented DataStructure
 - [X] 12-3: count charactors
 - [X] 12-4: Rotate string
 - [X] 12-5: MyInt roman
+
+## Chapter 3 - Stack
+- [X] 3-1: สร้าง stack
