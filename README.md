@@ -28,6 +28,6 @@ Repository for 01076109,01076110-Object Oriented DataStructure
 ## Chapter 4 - Queue
 - [X] 4-1: รู้จักกับ QUEUE
 - [ ] 4-2: แถวคอย
-- [ ] 4-3: code with queue
+- [X] 4-3: code with queue
 - [ ] 4-4: Cafe
 - [ ] 4-5: Search Portal
