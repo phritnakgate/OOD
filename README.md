@@ -24,3 +24,10 @@ Repository for 01076109,01076110-Object Oriented DataStructure
 - [X] 3-3: Postfix Calculator
 - [X] 3-4: วันหนึ่งฉันเดินเข้าป่า (1) a.k.a Into the Woods
 - [X] 3-5: ซอยตัน
+
+## Chapter 4 - Queue
+- [ ] 4-1: รู้จักกับ QUEUE
+- [ ] 4-2: แถวคอย
+- [ ] 4-3: code with queue
+- [ ] 4-4: Cafe
+- [ ] 4-5: Search Portal
