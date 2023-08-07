@@ -31,3 +31,11 @@ Repository for 01076109,01076110-Object Oriented DataStructure
 - [X] 4-3: code with queue
 - [X] 4-4: Cafe
 - [X] 4-5: Search Portal
+
+## Chapter 5 - Linked List
+- [X] 5-1: Insert ข้อมูลลงใน index ที่กำหนดของ Singly Linked List
+- [ ] 5-2: รู้จักกับ Doubly Linked List
+- [ ] 5-3: MergeOrderList
+- [ ] 5-4: หา loop ใน linked list
+- [ ] 5-5: Scramble
+
