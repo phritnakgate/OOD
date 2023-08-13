@@ -34,8 +34,8 @@ Repository for 01076109,01076110-Object Oriented DataStructure
 
 ## Chapter 5 - Linked List
 - [X] 5-1: Insert ข้อมูลลงใน index ที่กำหนดของ Singly Linked List
-- [ ] 5-2: รู้จักกับ Doubly Linked List
-- [ ] 5-3: MergeOrderList
+- [X] 5-2: รู้จักกับ Doubly Linked List
+- [X] 5-3: MergeOrderList
 - [ ] 5-4: หา loop ใน linked list
 - [ ] 5-5: Scramble
 
