@@ -41,7 +41,7 @@ Repository for 01076109,01076110-Object Oriented DataStructure
 
 ## Chapter 6 - Recursion
 - [X] 6-1: Factorial
-- [ ] 6-2: Palindrome
+- [X] 6-2: Palindrome
 - [ ] 6-3: 
 - [ ] 6-4: ไปเที่ยวแบบชาว Pantip
 - [ ] 6-5: 
