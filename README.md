@@ -39,3 +39,10 @@ Repository for 01076109,01076110-Object Oriented DataStructure
 - [X] 5-4: หา loop ใน linked list
 - [ ] 5-5: Scramble
 
+## Chapter 6 - Recursion
+- [ ] 6-1: Factorial
+- [ ] 6-2: Palindrome
+- [ ] 6-3: 
+- [ ] 6-4: ไปเที่ยวแบบชาว Pantip
+- [ ] 6-5: 
+
