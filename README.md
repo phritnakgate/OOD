@@ -40,7 +40,7 @@ Repository for 01076109,01076110-Object Oriented DataStructure
 - [ ] 5-5: Scramble
 
 ## Chapter 6 - Recursion
-- [ ] 6-1: Factorial
+- [X] 6-1: Factorial
 - [ ] 6-2: Palindrome
 - [ ] 6-3: 
 - [ ] 6-4: ไปเที่ยวแบบชาว Pantip
