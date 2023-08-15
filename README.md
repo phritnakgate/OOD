@@ -37,12 +37,12 @@ Repository for 01076109,01076110-Object Oriented DataStructure
 - [X] 5-2: รู้จักกับ Doubly Linked List
 - [X] 5-3: MergeOrderList
 - [X] 5-4: หา loop ใน linked list
-- [ ] 5-5: Scramble
+- [X] 5-5: Scramble **เสร็จแบบวิธีเหลี่ยม
 
 ## Chapter 6 - Recursion
 - [X] 6-1: Factorial
 - [X] 6-2: Palindrome
-- [ ] 6-3: 
+- [ ] 6-3: นับเกาะ
 - [ ] 6-4: ไปเที่ยวแบบชาว Pantip
-- [ ] 6-5: 
+- [ ] 6-5: String Permutation
 
