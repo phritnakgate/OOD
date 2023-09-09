@@ -42,7 +42,14 @@ Repository for 01076109,01076110-Object Oriented DataStructure
 ## Chapter 6 - Recursion
 - [X] 6-1: Factorial
 - [X] 6-2: Palindrome
-- [ ] 6-3: นับเกาะ
-- [ ] 6-4: ไปเที่ยวแบบชาว Pantip
-- [ ] 6-5: String Permutation
+- [X] 6-3: นับเกาะ
+- [X] 6-4: ไปเที่ยวแบบชาว Pantip
+- [X] 6-5: String Permutation
+
+## Chapter 7 - Tree 1 (Binary Search Tree)
+- [X] 7-1: รู้จักกับ Binary Search Tree
+- [ ] 7-2: หาค่า Below
+- [ ] 7-3: พ่อจ๋าอยู่ไหน
+- [ ] 7-4: delete node in tree
+- [ ] 7-5: ส่วนไหน
 
