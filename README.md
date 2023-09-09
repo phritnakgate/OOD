@@ -50,6 +50,6 @@ Repository for 01076109,01076110-Object Oriented DataStructure
 - [X] 7-1: รู้จักกับ Binary Search Tree
 - [X] 7-2: หาค่า Below
 - [X] 7-3: พ่อจ๋าอยู่ไหน
-- [ ] 7-4: delete node in tree
+- [X] 7-4: delete node in tree
 - [X] 7-5: ส่วนไหน
 
