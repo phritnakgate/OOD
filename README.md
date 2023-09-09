@@ -48,7 +48,7 @@ Repository for 01076109,01076110-Object Oriented DataStructure
 
 ## Chapter 7 - Tree 1 (Binary Search Tree)
 - [X] 7-1: รู้จักกับ Binary Search Tree
-- [ ] 7-2: หาค่า Below
+- [X] 7-2: หาค่า Below
 - [ ] 7-3: พ่อจ๋าอยู่ไหน
 - [ ] 7-4: delete node in tree
 - [ ] 7-5: ส่วนไหน
