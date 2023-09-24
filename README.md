@@ -53,3 +53,17 @@ Repository for 01076109,01076110-Object Oriented DataStructure
 - [X] 7-4: delete node in tree
 - [X] 7-5: ส่วนไหน
 
+## Chapter 8 - Tree 2 (AVL)
+- [ ] 8-1: AVL Tree มันทำยาก เผามันเลยละกัน
+- [ ] 8-2: แฟ้มเอกสารสีฟ้า (Blue Archive)
+- [X] 8-3: ต้นไม้หยาบ
+- [ ] 8-4: แฟ้มเอกสารสีฟ้า (Blue Archive)
+- [X] 8-5: จองรถตู้
+
+## Chapter 9 - Sorting
+- [ ] 9-1: bubble sort recursive
+- [ ] 9-2: Straight Selection Sort recursive
+- [ ] 9-3: somethingDROME
+- [ ] 9-4: Find the Running Median
+- [ ] 9-5: 
+
