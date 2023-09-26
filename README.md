@@ -64,6 +64,6 @@ Repository for 01076109,01076110-Object Oriented DataStructure
 - [X] 9-1: bubble sort recursive
 - [X] 9-2: Straight Selection Sort recursive
 - [X] 9-3: somethingDROME
-- [ ] 9-4: Find the Running Median
+- [X] 9-4: Find the Running Median
 - [ ] 9-5: คู่ตัวเลขเด่น
 
