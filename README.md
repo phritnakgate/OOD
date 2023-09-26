@@ -62,7 +62,7 @@ Repository for 01076109,01076110-Object Oriented DataStructure
 
 ## Chapter 9 - Sorting
 - [X] 9-1: bubble sort recursive
-- [ ] 9-2: Straight Selection Sort recursive
+- [X] 9-2: Straight Selection Sort recursive
 - [ ] 9-3: somethingDROME
 - [ ] 9-4: Find the Running Median
 - [ ] 9-5: คู่ตัวเลขเด่น
