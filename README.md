@@ -68,9 +68,9 @@ Repository for 01076109,01076110-Object Oriented DataStructure
 - [X] 9-5: คู่ตัวเลขเด่น
 
 ## Chapter 10 - Searching
-- [ ] 10-1: หัดใช้ Binary Search
-- [ ] 10-2: longest increasing subsequence
-- [ ] 10-3: 
+- [X] 10-1: หัดใช้ Binary Search
+- [X] 10-2: longest increasing subsequence
+- [X] 10-3: Simple Sqrt
 - [ ] 10-4: Rehashing
 - [ ] 10-5: กล่องสินค้า
 
